@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=NetIC1_1 Pin=JIn-1
+Removed Pin From Net: NetName=NetIC3_1 Pin=JIn-2
+Removed Pin From Net: NetName=NetIC2_1 Pin=JIn-4
+Added Component: Designator=R7(1206_R)
+Added Component: Designator=R8(1206_R)
+Added Component: Designator=R9(1206_R)
+Added Component: Designator=U1(5SOT-23)
+Added Component: Designator=U2(5SOT-23)
+Added Component: Designator=U3(5SOT-23)
+Added Pin To Net: NetName=SGND Pin=U1-2
+Added Pin To Net: NetName=NetIC1_1 Pin=U1-3
+Added Pin To Net: NetName=NetIC1_1 Pin=U1-4
+Added Pin To Net: NetName=SGND Pin=U2-2
+Added Pin To Net: NetName=NetIC2_1 Pin=U2-3
+Added Pin To Net: NetName=NetIC2_1 Pin=U2-4
+Added Pin To Net: NetName=SGND Pin=U3-2
+Added Pin To Net: NetName=NetIC3_1 Pin=U3-3
+Added Pin To Net: NetName=NetIC3_1 Pin=U3-4
+Added Pin To Net: NetName=NetJIn_1 Pin=JIn-1
+Added Pin To Net: NetName=NetJIn_1 Pin=R8-1
+Added Pin To Net: NetName=NetJIn_1 Pin=U1-1
+Added Net: Name=NetJIn_1
+Added Pin To Net: NetName=NetJIn_2 Pin=JIn-2
+Added Pin To Net: NetName=NetJIn_2 Pin=R9-1
+Added Pin To Net: NetName=NetJIn_2 Pin=U3-1
+Added Net: Name=NetJIn_2
+Added Pin To Net: NetName=NetJIn_4 Pin=JIn-4
+Added Pin To Net: NetName=NetJIn_4 Pin=U2-1
+Added Net: Name=NetJIn_4
+Added Pin To Net: NetName=V5 Pin=JIn-3
+Added Pin To Net: NetName=V5 Pin=R7-2
+Added Pin To Net: NetName=V5 Pin=R8-2
+Added Pin To Net: NetName=V5 Pin=R9-2
+Added Pin To Net: NetName=V5 Pin=U1-5
+Added Pin To Net: NetName=V5 Pin=U2-5
+Added Pin To Net: NetName=V5 Pin=U3-5
+Added Net: Name=V5
+Added Member To Class: ClassName=IRPKrancowki Member=Component R7 2.4k
+Added Member To Class: ClassName=IRPKrancowki Member=Component R8 2.4k
+Added Member To Class: ClassName=IRPKrancowki Member=Component R9 2.4k
+Added Member To Class: ClassName=IRPKrancowki Member=Component U1 LPV321
+Added Member To Class: ClassName=IRPKrancowki Member=Component U2 LPV321
+Added Member To Class: ClassName=IRPKrancowki Member=Component U3 LPV321
+Added Room: Name=IRPKrancowki

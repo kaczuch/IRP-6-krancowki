@@ -1,0 +1,89 @@
+Added Component: Designator=IC1(DIP6)
+Added Component: Designator=IC2(DIP6)
+Added Component: Designator=IC3(DIP6)
+Added Component: Designator=JIn(MICROFIT 3x2 Right Angle)
+Added Component: Designator=JOut(MICROFIT 3x2 Right Angle)
+Added Component: Designator=R1(1206_R)
+Added Component: Designator=R2(1206_R)
+Added Component: Designator=R3(1206_R)
+Added Component: Designator=R4(1206_R)
+Added Component: Designator=R5(1206_R)
+Added Component: Designator=R6(1206_R)
+Added Component: Designator=R7(1206_R)
+Added Component: Designator=R8(1206_R)
+Added Component: Designator=R9(1206_R)
+Added Component: Designator=U1(5SOT-23)
+Added Component: Designator=U2(5SOT-23)
+Added Component: Designator=U3(5SOT-23)
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_2 Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=IC1-4
+Added Pin To Net: NetName=NetIC1_5 Pin=IC1-5
+Added Pin To Net: NetName=NetIC2_1 Pin=IC2-1
+Added Pin To Net: NetName=NetIC2_2 Pin=IC2-2
+Added Pin To Net: NetName=GND Pin=IC2-4
+Added Pin To Net: NetName=NetIC2_5 Pin=IC2-5
+Added Pin To Net: NetName=NetIC3_1 Pin=IC3-1
+Added Pin To Net: NetName=NetIC3_2 Pin=IC3-2
+Added Pin To Net: NetName=GND Pin=IC3-4
+Added Pin To Net: NetName=NetIC3_5 Pin=IC3-5
+Added Pin To Net: NetName=NetJIn_1 Pin=JIn-1
+Added Pin To Net: NetName=NetJIn_2 Pin=JIn-2
+Added Pin To Net: NetName=V5 Pin=JIn-3
+Added Pin To Net: NetName=NetJIn_4 Pin=JIn-4
+Added Pin To Net: NetName=SGND Pin=JIn-6
+Added Pin To Net: NetName=NetIC1_5 Pin=JOut-1
+Added Pin To Net: NetName=NetIC3_5 Pin=JOut-2
+Added Pin To Net: NetName=V24 Pin=JOut-3
+Added Pin To Net: NetName=NetIC2_5 Pin=JOut-4
+Added Pin To Net: NetName=GND Pin=JOut-6
+Added Pin To Net: NetName=SGND Pin=R1-1
+Added Pin To Net: NetName=NetIC1_2 Pin=R1-2
+Added Pin To Net: NetName=SGND Pin=R2-1
+Added Pin To Net: NetName=NetIC2_2 Pin=R2-2
+Added Pin To Net: NetName=SGND Pin=R3-1
+Added Pin To Net: NetName=NetIC3_2 Pin=R3-2
+Added Pin To Net: NetName=NetIC1_5 Pin=R4-1
+Added Pin To Net: NetName=V24 Pin=R4-2
+Added Pin To Net: NetName=NetIC2_5 Pin=R5-1
+Added Pin To Net: NetName=V24 Pin=R5-2
+Added Pin To Net: NetName=NetIC3_5 Pin=R6-1
+Added Pin To Net: NetName=V24 Pin=R6-2
+Added Pin To Net: NetName=V5 Pin=R7-2
+Added Pin To Net: NetName=NetJIn_1 Pin=R8-1
+Added Pin To Net: NetName=V5 Pin=R8-2
+Added Pin To Net: NetName=NetJIn_2 Pin=R9-1
+Added Pin To Net: NetName=V5 Pin=R9-2
+Added Pin To Net: NetName=NetJIn_1 Pin=U1-1
+Added Pin To Net: NetName=SGND Pin=U1-2
+Added Pin To Net: NetName=NetIC1_1 Pin=U1-3
+Added Pin To Net: NetName=NetIC1_1 Pin=U1-4
+Added Pin To Net: NetName=V5 Pin=U1-5
+Added Pin To Net: NetName=NetJIn_4 Pin=U2-1
+Added Pin To Net: NetName=SGND Pin=U2-2
+Added Pin To Net: NetName=NetIC2_1 Pin=U2-3
+Added Pin To Net: NetName=NetIC2_1 Pin=U2-4
+Added Pin To Net: NetName=V5 Pin=U2-5
+Added Pin To Net: NetName=NetJIn_2 Pin=U3-1
+Added Pin To Net: NetName=SGND Pin=U3-2
+Added Pin To Net: NetName=NetIC3_1 Pin=U3-3
+Added Pin To Net: NetName=NetIC3_1 Pin=U3-4
+Added Pin To Net: NetName=V5 Pin=U3-5
+Added Member To Class: ClassName=IRPKrancowki Member=Component IC1 4n25
+Added Member To Class: ClassName=IRPKrancowki Member=Component IC2 4n25
+Added Member To Class: ClassName=IRPKrancowki Member=Component IC3 4n25
+Added Member To Class: ClassName=IRPKrancowki Member=Component JIn Molex Microfit
+Added Member To Class: ClassName=IRPKrancowki Member=Component JOut Molex Microfit
+Added Member To Class: ClassName=IRPKrancowki Member=Component R1 390
+Added Member To Class: ClassName=IRPKrancowki Member=Component R2 390
+Added Member To Class: ClassName=IRPKrancowki Member=Component R3 390
+Added Member To Class: ClassName=IRPKrancowki Member=Component R4 2.4k
+Added Member To Class: ClassName=IRPKrancowki Member=Component R5 2.4k
+Added Member To Class: ClassName=IRPKrancowki Member=Component R6 2.4K
+Added Member To Class: ClassName=IRPKrancowki Member=Component R7 2.4k
+Added Member To Class: ClassName=IRPKrancowki Member=Component R8 2.4k
+Added Member To Class: ClassName=IRPKrancowki Member=Component R9 2.4k
+Added Member To Class: ClassName=IRPKrancowki Member=Component U1 LPV321
+Added Member To Class: ClassName=IRPKrancowki Member=Component U2 LPV321
+Added Member To Class: ClassName=IRPKrancowki Member=Component U3 LPV321
+Added Room: Name=IRPKrancowki

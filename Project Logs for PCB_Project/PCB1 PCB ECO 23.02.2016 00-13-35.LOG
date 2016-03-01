@@ -1,0 +1,55 @@
+Added Component: Designator=IC1(DIP6)
+Added Component: Designator=IC2(DIP6)
+Added Component: Designator=IC3(DIP6)
+Added Component: Designator=JIn(MICROFIT 3x2 Right Angle)
+Added Component: Designator=JOut(MICROFIT 3x2 Right Angle)
+Added Component: Designator=R1(0603_R)
+Added Component: Designator=R2(0603_R)
+Added Component: Designator=R3(0603_R)
+Added Component: Designator=R4(0603_R)
+Added Component: Designator=R5(0603_R)
+Added Component: Designator=R6(0603_R)
+Added Pin To Net: NetName=GND Pin=JOut-6
+Added Net: Name=GND
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_1 Pin=JIn-1
+Added Net: Name=NetIC1_1
+Added Pin To Net: NetName=NetIC1_2 Pin=IC1-2
+Added Pin To Net: NetName=NetIC1_2 Pin=R1-2
+Added Net: Name=NetIC1_2
+Added Pin To Net: NetName=NetIC1_5 Pin=IC1-5
+Added Pin To Net: NetName=NetIC1_5 Pin=JOut-1
+Added Pin To Net: NetName=NetIC1_5 Pin=R4-1
+Added Net: Name=NetIC1_5
+Added Pin To Net: NetName=NetIC2_1 Pin=IC2-1
+Added Pin To Net: NetName=NetIC2_1 Pin=JIn-4
+Added Net: Name=NetIC2_1
+Added Pin To Net: NetName=NetIC2_2 Pin=IC2-2
+Added Pin To Net: NetName=NetIC2_2 Pin=R2-2
+Added Net: Name=NetIC2_2
+Added Pin To Net: NetName=NetIC2_5 Pin=IC2-5
+Added Pin To Net: NetName=NetIC2_5 Pin=JOut-4
+Added Pin To Net: NetName=NetIC2_5 Pin=R5-1
+Added Net: Name=NetIC2_5
+Added Pin To Net: NetName=NetIC3_1 Pin=IC3-1
+Added Pin To Net: NetName=NetIC3_1 Pin=JIn-2
+Added Net: Name=NetIC3_1
+Added Pin To Net: NetName=NetIC3_2 Pin=IC3-2
+Added Pin To Net: NetName=NetIC3_2 Pin=R3-2
+Added Net: Name=NetIC3_2
+Added Pin To Net: NetName=NetIC3_6 Pin=IC3-6
+Added Pin To Net: NetName=NetIC3_6 Pin=JOut-2
+Added Pin To Net: NetName=NetIC3_6 Pin=R6-1
+Added Net: Name=NetIC3_6
+Added Pin To Net: NetName=SGND Pin=JIn-6
+Added Pin To Net: NetName=SGND Pin=R1-1
+Added Pin To Net: NetName=SGND Pin=R2-1
+Added Pin To Net: NetName=SGND Pin=R3-1
+Added Net: Name=SGND
+Added Pin To Net: NetName=V24 Pin=JOut-3
+Added Pin To Net: NetName=V24 Pin=R4-2
+Added Pin To Net: NetName=V24 Pin=R5-2
+Added Pin To Net: NetName=V24 Pin=R6-2
+Added Net: Name=V24
+Added Class: Name=IRPKrancowki
+Added Room: Name=IRPKrancowki

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetJIn_1 Pin=R7-1
+Added Pin To Net: NetName=NetJIn_4 Pin=R7-1
+Added Room: Name=IRPKrancowki
